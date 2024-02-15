@@ -1,0 +1,1 @@
+->The Hall Booking App API is a comprehensive solution for managing room creation, booking, and customer details within a hall or conference center. This API is designed to streamline the process of room booking and ensure a seamless user experience.
