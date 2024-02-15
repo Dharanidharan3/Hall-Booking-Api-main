@@ -1,4 +1,3 @@
-/** @format */
 
 const rooms = [];
 const bookings = [];
